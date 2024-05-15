@@ -1,5 +1,3 @@
-<h1 align="center"> Sistema para biblioteca </h1>
-
 # - Descrição
 - Este é um projeto em Python que cria um sistema para uma biblioteca. Ele gera um banco de dados local e permite a manipulação com métodos.
 
